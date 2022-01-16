@@ -13,7 +13,9 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Está landing page foi feita na semana MAPADEV WEEK com o Dev em Dobro
+ Está landing page foi feita na semana MAPADEV WEEK com o Dev em Dobro.
+ Pagina disponivel no Github Pages link para acesssar é:
+ https://dariorjunior.github.io/landing-page-agenciaxpto/
 
 
 ## 🛠 Tecnologias
